@@ -25,6 +25,18 @@
   * Preferred languages: + Chinese, Simplified
 * Keyboard
   * Input Sources: + Sougou
+## Safari Option
+* uncheck Open "safe" files after downloading
+
+## Safari Extensions
+* Awesome Screenshot
+* OneNote Web Clipper
+* Evernote Web Clipper
+* AdBlock
+* LastPass
+* Sessions
+* Player for YouTube (Flash version)
+
 ## Basic Software
 * Sougou IM
 * Adobe Flash player
