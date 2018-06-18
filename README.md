@@ -90,6 +90,7 @@ dupeguru
 * paintbrush
 * sublime-text
 * github
+* diffmerge - https://apple.stackexchange.com/questions/10252/what-directory-comparison-tools-can-i-use-on-os-x
 
 # http://ohmyz.sh
 `$ sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
